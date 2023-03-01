@@ -3,7 +3,7 @@
 
 ### Prerequisites: Anaconda, git
 
-### Note that the finetuning process requires a large GPU memory. Among the GPUs we tested, only NVDIA A100 (80G) worked.
+### Note that the finetuning process requires a large GPU memory. Among the GPUs we tested (NVDIA A100, A10, V100, T4, P4, P100), only NVDIA A100 (80G) worked.
 
 #create and activate conda environment
 conda create -n py38 python=3.8
