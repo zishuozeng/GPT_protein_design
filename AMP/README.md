@@ -2,7 +2,8 @@
 ## AMP (antimicrobial peptides) generation & screening
 
 ### Prerequisites
-Please follow environment setup instructions in upper directory.
+1) Please follow environment setup instructions in upper directory
+2) Set the current directory as working directory
 
 ### STEP 1: data preparation
 
