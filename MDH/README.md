@@ -2,9 +2,10 @@
 ## MDH (malate dehydrogenase) generation & screening
 
 ### Prerequisites
-1) Please follow environment setup instructions in upper directory.
-2) install cd-hit https://www.bioinformatics.org/cd-hit/cd-hit-user-guide#:~:text=Installing%20%EE%80%80CD-HIT%EE%80%81%20package%20is%20very%20simple%3A%201.%20download,5.%20you%20will%20have%20all%20%EE%80%80cd-hit%EE%80%81%20programs%20compiled
-3) install BLAST+ https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download
+1) Please follow environment setup instructions in upper directory
+2) Set the current directory as working directory
+3) install cd-hit https://www.bioinformatics.org/cd-hit/cd-hit-user-guide#:~:text=Installing%20%EE%80%80CD-HIT%EE%80%81%20package%20is%20very%20simple%3A%201.%20download,5.%20you%20will%20have%20all%20%EE%80%80cd-hit%EE%80%81%20programs%20compiled
+4) install BLAST+ https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download
 
 ### STEP 1: data preparation
 
