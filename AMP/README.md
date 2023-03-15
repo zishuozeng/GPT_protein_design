@@ -8,9 +8,9 @@
 ### STEP 1: data preparation
 
 **Inputs** 
-1) "aa_compo.csv", amino acid composition in natural proteomes, obtained from https://proteopedia.org/wiki/index.php/Amino_acid_composition;
-2) "SATPdb_amp.fa", AMP sequences from https://webs.iiitd.edu.in/raghava/satpdb/down.php ; limited to 'antibacterial peptide';
-3) "short_peptides_uniprot.fasta", short peptides obtained from UniProt https://www.uniprot.org/uniprotkb?query=(reviewed:true)%20AND%20(length:[*%20TO%2050])
+1) "aa_compo.csv", amino acid composition in natural proteomes, obtained from [here](https://proteopedia.org/wiki/index.php/Amino_acid_composition);
+2) "SATPdb_amp.fa", AMP sequences from [SATPdb](https://webs.iiitd.edu.in/raghava/satpdb/down.php); limited to 'antibacterial peptide';
+3) "short_peptides_uniprot.fasta", short peptides obtained from [UniProt](https://www.uniprot.org/uniprotkb?query=(reviewed:true)%20AND%20(length:[*%20TO%2050]))
 
 **Outputs**
 1) "X_train", sequences of training set
