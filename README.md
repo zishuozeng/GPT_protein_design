@@ -9,7 +9,7 @@ This repository contains data and scripts neccesary to reproduce the results in 
 #### Illustrations for the pipeline (A) and the architecture of discriminator (B) are shown below:  
 </br>
 <p align="center">
-<img width="500" alt="fig1" src="https://github.com/zishuozeng/GPT_protein_design/blob/main/fig1_new.png">
+<img width="800" alt="fig1" src="https://github.com/zishuozeng/GPT_protein_design/blob/main/fig1_new.png">
 </p>
 
 #### Instruction
